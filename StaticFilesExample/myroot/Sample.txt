@@ -1,0 +1,1 @@
+This is sample file by Black-Coder, TrickSologic for demonstration of  WebRoot and UseStaticFiles
